@@ -1,0 +1,42 @@
+body{
+  background-color:   #696969;
+  font-family: 'Nunito', sans-serif;
+  margin: 0;
+}
+
+.navbar{
+  margin-top: 20px;
+}
+
+.jumbotron{
+  background-color: #2F4F4F;
+}
+#price{
+  text-align: left;
+}
+
+.img-3{
+  float: left;
+  margin-right: 10px;
+  width: ((100% - 20px)/3);}
+
+  img: last-of-type {
+    margin-rigth: 0px;
+}
+
+
+
+.header-inner-content{  
+  position: relative;
+  width: 100%;
+  text-align: center;
+}
+
+.fa {
+  padding: 5px;
+  font-size: 20px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 3px 3px;
+}
